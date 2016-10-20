@@ -12,5 +12,8 @@
   </head>
   <body>
   Hello World!
+  <p>
+    This is a demo page :D
+  </p>
   </body>
 </html>
